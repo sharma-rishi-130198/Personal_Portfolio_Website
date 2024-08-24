@@ -36,3 +36,8 @@ The complete backend code is located in the "backend" directory.
 **To Run the Backend Code:**
 * Navigate to the "backend" directory.
 * **Start the Django Server:** Run `python manage.py runserver`.
+
+## Project Demo Video
+
+https://github.com/user-attachments/assets/01690004-4a59-46f1-abca-114a408ec552
+
