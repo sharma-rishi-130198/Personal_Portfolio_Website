@@ -39,5 +39,4 @@ The complete backend code is located in the "backend" directory.
 
 ## Project Demo Video
 
-https://github.com/user-attachments/assets/01690004-4a59-46f1-abca-114a408ec552
-
+https://github.com/user-attachments/assets/4d51ea65-728e-49cf-b2d7-e7e93920d375
